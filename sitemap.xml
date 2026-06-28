@@ -16,6 +16,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.primebroadcasts.com/partner-services/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.primebroadcasts.com/case-studies/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
